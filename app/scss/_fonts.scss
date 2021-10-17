@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'Inter-Regular', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  src: local('Inter-Regular'),
+    url('../fonts/Inter-Regular.woff2') format('woff2'),
+    url('../fonts/Inter-Regular.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter-ExtraBold', sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  src: local('Inter-ExtraBold'),
+    url('../fonts/Inter-ExtraBold.woff2') format('woff2'),
+    url('../fonts/Inter-ExtraBold.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Poppins-Regular', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  src: local('Poppins-Regular'),
+    url('../fonts/Poppins-Regular.woff2') format('woff2'),
+    url('../fonts/Poppins-Regular.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Poppins-semiBold', sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  src: local('Poppins-semiBold'),
+    url('../fonts/Poppins-semiBold.woff2') format('woff2'),
+    url('../fonts/Poppins-semiBold.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Poppins-Bold', sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  src: local('Poppins-Bold'),
+    url('../fonts/Poppins-Bold.woff2') format('woff2'),
+    url('../fonts/Poppins-Bold.woff') format('woff');
+  font-display: swap;
+}
